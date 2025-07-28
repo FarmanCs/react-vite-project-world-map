@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Islamabad",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2027-08-21T10:00:00.000Z",
+      "notes": "Peaceful and beautiful capital city.",
+      "position": {
+        "lat": 33.6844,
+        "lng": 73.0479
+      },
+      "id": 10000001
+    },
+    {
+      "cityName": "Kabul",
+      "country": "Afghanistan",
+      "emoji": "🇦🇫",
+      "date": "2027-05-10T14:30:00.000Z",
+      "notes": "Rich in history.",
+      "position": {
+        "lat": 34.5553,
+        "lng": 69.2075
+      },
+      "id": 10000002
+    },
+    {
+      "cityName": "Beijing",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2027-09-05T08:15:00.000Z",
+      "notes": "Massive and modern city.",
+      "position": {
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "id": 10000003
+    },
+    {
+      "cityName": "Tehran",
+      "country": "Iran",
+      "emoji": "🇮🇷",
+      "date": "2027-11-11T17:45:00.000Z",
+      "notes": "Cultural heart of Iran.",
+      "position": {
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "id": 10000004
+    },
+    {
+      "cityName": "New Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2027-12-01T12:00:00.000Z",
+      "notes": "Busy and full of life.",
+      "position": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "id": 10000005
+    }
+  ]
+}
