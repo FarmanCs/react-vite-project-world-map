@@ -1,5 +1,7 @@
 # React + Vite
 
+NOTE: to get the city ressult from the api then do run dev server this will give you the Temp url(http://localhost:7000) for cities data
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
